@@ -1,0 +1,4 @@
+digraph dependencies {
+  "appA" -> "libdep";
+  "appB" -> "libdep";
+}
